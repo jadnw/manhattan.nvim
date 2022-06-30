@@ -1,10 +1,10 @@
-<h1 align="center">manhattan</h1>
+<h1 align="center">Manhattan Neovim Colorscheme</h1>
 <br />
 <div align="center">
   <img
     width="144px"
     height="144px"
-    src="https://raw.githubusercontent.com/jadnw/manhattan.nvim/dev/media/logo.png"
+    src="https://raw.githubusercontent.com/jadnw/manhattan.nvim/main/media/logo.svg"
     alt="manhattan logo"
   />
 </div>
@@ -32,26 +32,26 @@
 
 ## Overview
 
-- manhattan Hard
+- Manhattan Medium (Default)
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/jadnw/manhattan.nvim/dev/media/variants/hard.png"
-    alt="Hard"
-  />
-</div>
-
-- manhattan Medium
-<div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/jadnw/manhattan.nvim/dev/media/variants/medium.png"
+    src="https://raw.githubusercontent.com/jadnw/manhattan.nvim/main/media/variants/medium.png"
     alt="Medium"
   />
 </div>
 
-- manhattan Soft
+- Manhattan Hard
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/jadnw/manhattan.nvim/dev/media/variants/soft.png"
+    src="https://raw.githubusercontent.com/jadnw/manhattan.nvim/main/media/variants/hard.png"
+    alt="Hard"
+  />
+</div>
+
+- Manhattan Soft
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/jadnw/manhattan.nvim/main/media/variants/soft.png"
     alt="Soft"
   />
 </div>
@@ -66,7 +66,7 @@ manhattan saves your eyestraints with a dark background and a pastel palette.
 
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/jadnw/manhattan.nvim/dev/media/palette.png"
+    src="https://raw.githubusercontent.com/jadnw/manhattan.nvim/main/media/palette.svg"
     alt="manhattan Palette"
   />
 </div>
@@ -171,3 +171,4 @@ require("manhattan").setup {
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim)
 - [jadnw/gemstones.nvim](https://github.com/jadnw/gemstones.nvim)
+- [jadnw/nightwing.nvim](https://github.com/jadnw/nightwing.nvim)
