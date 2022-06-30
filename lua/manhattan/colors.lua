@@ -35,7 +35,7 @@ M.pals = {
     sel0 = "#5f6d80",
     sel1 = "#818fa1",
   },
-  medium = {
+  default = {
     accent = C:shade("#56c6b2"),
     black = C:shade("#101215"),
     red = C:shade("#f46d7e"),

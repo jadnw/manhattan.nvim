@@ -32,11 +32,11 @@
 
 ## Overview
 
-- Manhattan Medium (Default)
+- Manhattan (Default)
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/jadnw/manhattan.nvim/main/media/variants/medium.png"
-    alt="Medium"
+    src="https://raw.githubusercontent.com/jadnw/manhattan.nvim/main/media/variants/default.png"
+    alt="Default"
   />
 </div>
 
@@ -104,7 +104,7 @@ This is an example manhattan setup with default values
 ```lua
 require("manhattan").setup {
   variant = "hard",
-  -- values: "hard" | "medium" | "soft"
+  -- values: "hard" | "default" | "soft"
   options = {
     transparent = false, -- if true, background is transparent
     terminal_colors = true, -- if true, set terminal colors

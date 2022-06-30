@@ -1,5 +1,5 @@
 local M = {
-  variant = "medium",
+  variant = "default",
 }
 
 M.options = {
